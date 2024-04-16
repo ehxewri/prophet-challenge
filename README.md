@@ -1,7 +1,7 @@
 # Mercado Libre Growth Analysis Challenge
 
-the assignment can be found at 
-
+The assignment can be found at 
+[Forcasting Net Profit](https://github.com/ehxewri/prophet-challenge/blob/main/forecasting_net_prophet.ipynb)
 
 ## Overview
 As a Growth Analyst at Mercado Libre, the leading e-commerce site in Latin America with over 200 million users, you are tasked with analyzing financial and user data to drive company growth. This challenge focuses on determining if predictions of search traffic can be leveraged to forecast stock trading success.
